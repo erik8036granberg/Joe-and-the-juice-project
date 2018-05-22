@@ -82,6 +82,21 @@ a {
 }
 
 
+/*---------- Indhold ---------*/
+
+.indhold {
+    box-sizing: border-box;
+    padding: 0 30px 1px;
+    margin: 0 auto;
+    max-width: 1200px;
+    max-width: 900px;
+    position: relative;
+}
+
+.footer {
+    text-align: center;
+}
+
 
 /*---- skrifttyper osv. ------*/
 
